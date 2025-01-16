@@ -10,3 +10,5 @@ Predictive Analytics: Identification of potential at-risk employees using histor
 Interactive Visualizations: Dynamic filters and drill-down capabilities to explore specific regions, teams, or timeframes.
 Real-Time Data Integration: Seamless connection to live HR data sources, ensuring up-to-date insights for decision-making.
 This dashboard serves as a critical tool for organizations to develop proactive retention strategies, reduce turnover costs, and foster a positive workplace environment.
+
+# Download the pdf file to view the dashboard.
